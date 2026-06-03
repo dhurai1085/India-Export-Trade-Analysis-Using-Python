@@ -50,30 +50,28 @@ Dataset Size ~ 50.6 MB
 Summary of Findings:
 
 This project analyzed India’s exports to European countries using Python. The dataset contained approximately 532,000 export transactions covering multiple commodities, countries, quantities, and trade values.
+
 The analysis showed that export trade value is highly concentrated among a small number of countries and commodities. The Kingdom of the Netherlands emerged as the most significant export destination in terms of trade value. Fuel-related products, particularly Automotive Diesel Fuel and Aviation Turbine Fuel, contributed a major share of export revenue.
+
 Monthly and quarterly trend analysis revealed seasonal variations in export performance, with stronger export activity observed during the second quarter. Correlation analysis showed a strong positive relationship between export quantity and export value, indicating that larger shipment quantities generally generate higher trade revenue.
+
 Overall, the export market is driven by a limited number of high-value commodities and major destination countries.
 
 Key Insights:
 
-1.
-Export value distribution is highly skewed
+1.Export value distribution is highly skewed
 Most export transactions have relatively low trade values, while a small number of transactions contribute exceptionally high values. This creates a positively skewed distribution with numerous outliers.
 
-2.
-Netherlands is the dominant export destination
+2.Netherlands is the dominant export destination
 The Kingdom of the Netherlands consistently records the highest export value among European countries, making it the most important market in the dataset.
 
-3.
-Fuel products drive export revenue
+3.Fuel products drive export revenue
 Automotive Diesel Fuel and Aviation Turbine Fuel contribute significantly more export value than other commodities, indicating heavy dependence on energy-related exports.
 
-4.
-Quantity and export trade values are strongly related
+4.Quantity and export trade values are strongly related
 Correlation analysis and scatter plots show a strong positive relationship between export quantity and trade value. Higher shipment volumes generally result in higher export earnings.
 
-5.
-Export performance peeks during q2 of both 2024 and 2025
+5.Export performance peeks during q2 of both 2024 and 2025
 Quarterly analysis shows stronger export activity during the second quarter compared with other quarters, suggesting possible seasonal demand patterns.
 
 Conclusion:
