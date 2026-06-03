@@ -49,7 +49,12 @@ Dataset Size ~ 50.6 MB
 
 Tools & Technologies:
 
-  Python - pandas - NumPy - Matplotlib - Seaborn
+  - Python 
+  - pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Jupyter Notebook / Google Colab
 
 Summary of Findings:
 
