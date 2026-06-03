@@ -47,6 +47,9 @@ Number of Columns 17
 
 Dataset Size ~ 50.6 MB
 
+Tools Use:
+  Python - pandas - NumPy - Matplotlib - Seaborn
+
 Summary of Findings:
 
 This project analyzed India’s exports to European countries using Python. The dataset contained approximately 532,000 export transactions covering multiple commodities, countries, quantities, and trade values.
