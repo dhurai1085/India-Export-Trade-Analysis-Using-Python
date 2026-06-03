@@ -47,6 +47,28 @@ Number of Columns 17
 
 Dataset Size ~ 50.6 MB
 
+Attribute (Column / Feature) Details:
+| Column            | Description                                                            |
+| ----------------- | ---------------------------------------------------------------------- |
+| `id`              | Unique identifier for each export transaction record.                  |
+| `date`            | Date of the export transaction.                                        |
+| `country_name`    | Destination country where the goods were exported.                     |
+| `region`          | Geographic region of the destination country.                          |
+| `region_code`     | Code representing the destination region.                              |
+| `sub_region`      | Sub-region classification of the destination country.                  |
+| `sub_region_code` | Code representing the destination sub-region.                          |
+| `hs_code`         | Harmonized System (HS) code used to classify the exported commodity.   |
+| `commodity`       | Name or description of the exported commodity/product.                 |
+| `unit`            | Measurement unit used for the exported quantity (e.g., KGS, NOS, SQM). |
+| `value_qt`        | Quantity of the exported commodity in the specified unit.              |
+| `value_rs`        | Export value in Indian Rupees (INR).                                   |
+| `value_dl`        | Export value in US Dollars (USD).                                      |
+| `year`            | Year extracted from the transaction date.                              |
+| `month`           | Numeric month extracted from the transaction date (1–12).              |
+| `month_name`      | Name of the month extracted from the transaction date.                 |
+| `quarter`         | Quarter of the year extracted from the transaction date (1–4).         |
+-----------------------------------------------------------------------------------------------
+
 Tools & Technologies:
 
   - Python 
