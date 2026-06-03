@@ -75,4 +75,5 @@ Correlation analysis and scatter plots show a strong positive relationship betwe
 Quarterly analysis shows stronger export activity during the second quarter compared with other quarters, suggesting possible seasonal demand patterns.
 
 Conclusion:
+
 The analysis reveals that India’s exports to Europe are primarily driven by a few dominant countries and high-value commodities. Export performance shows clear seasonal patterns and a strong relationship between shipment quantity and trade value. By strengthening key trade partnerships while diversifying both markets and products, exporters can improve resilience and support long-term export growth.
