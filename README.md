@@ -47,7 +47,8 @@ Number of Columns 17
 
 Dataset Size ~ 50.6 MB
 
-Tools Use:
+Tools Used:
+
   Python - pandas - NumPy - Matplotlib - Seaborn
 
 Summary of Findings:
