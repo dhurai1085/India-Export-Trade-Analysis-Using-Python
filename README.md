@@ -1,10 +1,10 @@
 India's Export Trade Performance Analytics
 
-Objective:
+1. Objective:
 
 This project focuses on analysing India’s export trade statistics using Python to identify export trends, high-performing commodities, top destination countries, and regional trade patterns. The dataset contains real-world international trade records including export values, quantities, commodity classifications, and geographic information. Through data cleaning, exploratory data analysis, and visualization techniques, the project aims to generate meaningful business and economic insights from India’s global export activities.
 
-Business Problem
+2. Business Problem
 
 India exports thousands of commodities to multiple countries and regions worldwide. However, identifying top-performing export commodities, high-value export destinations regional trade patterns, export growth trends, quantity vs revenue relationships is difficult without proper data analysis.
 
@@ -18,7 +18,7 @@ Identify profitable export sectors
 •
 Monitor trade growth
 
-Expected Outcome:
+3. Expected Outcome:
 
 The project aims to:
 •
@@ -34,7 +34,7 @@ Compare export quantity and export value
 •
 Generate meaningful business insights using visualization and EDA techniques
 
-Dataset Information:
+4. Dataset Information:
 
 Source: Indian Data Portal
 The dataset is sourced from: India Data Portal Trade/export records published through Indian government statistical systems. This is a government/public economic dataset, which makes your project look more authentic and professional compared to random practice datasets.
@@ -47,7 +47,7 @@ Number of Columns 17
 
 Dataset Size ~ 50.6 MB
 
-Attribute (Column / Feature) Details:
+5. Attribute (Column / Feature) Details:
 | Column            | Description                                                            |
 | ----------------- | ---------------------------------------------------------------------- |
 | `id`              | Unique identifier for each export transaction record.                  |
@@ -69,7 +69,7 @@ Attribute (Column / Feature) Details:
 | `quarter`         | Quarter of the year extracted from the transaction date (1–4).         |
 -----------------------------------------------------------------------------------------------
 
-Tools & Technologies:
+6. Tools & Technologies:
 
   - Python 
   - pandas
@@ -78,7 +78,7 @@ Tools & Technologies:
   - Seaborn
   - Jupyter Notebook / Google Colab
 
-Summary of Findings:
+7. Summary of Findings:
 
 This project analyzed India’s exports to European countries using Python. The dataset contained approximately 532,000 export transactions covering multiple commodities, countries, quantities, and trade values.
 
@@ -88,7 +88,7 @@ Monthly and quarterly trend analysis revealed seasonal variations in export perf
 
 Overall, the export market is driven by a limited number of high-value commodities and major destination countries.
 
-Key Insights:
+8. Key Insights:
 
 1.Export value distribution is highly skewed
 Most export transactions have relatively low trade values, while a small number of transactions contribute exceptionally high values. This creates a positively skewed distribution with numerous outliers.
@@ -105,6 +105,6 @@ Correlation analysis and scatter plots show a strong positive relationship betwe
 5.Export performance peeks during q2 of both 2024 and 2025
 Quarterly analysis shows stronger export activity during the second quarter compared with other quarters, suggesting possible seasonal demand patterns.
 
-Conclusion:
+9. Conclusion:
 
 The analysis reveals that India’s exports to Europe are primarily driven by a few dominant countries and high-value commodities. Export performance shows clear seasonal patterns and a strong relationship between shipment quantity and trade value. By strengthening key trade partnerships while diversifying both markets and products, exporters can improve resilience and support long-term export growth.
